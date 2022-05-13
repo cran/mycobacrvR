@@ -1,3 +1,4 @@
+import(methods, utils)
 export(abcpred_nmer)
 export(algpred)
 export(allermatch)
